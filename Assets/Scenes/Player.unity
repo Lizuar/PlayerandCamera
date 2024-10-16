@@ -390,8 +390,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac3a7d458ff5234a9a5f16bd562f129, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 1
+  Speed: 10
   JumpSpeed: 10
+  AirControl: 0.1
 --- !u!143 &1821301327
 CharacterController:
   m_ObjectHideFlags: 0
